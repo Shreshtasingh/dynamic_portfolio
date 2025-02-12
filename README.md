@@ -9,80 +9,117 @@ https://github.com/user-attachments/assets/2e5a0e1a-6325-4aa5-a1d6-0f416e0a5bc5
 
 # dynamic_portfolio
 
-An **interactive and animated portfolio** built using **React and JavaScript** to showcase my projects, experience, and skills in a dynamic way.  
+A **fully responsive** and **interactive** portfolio website built using **HTML, CSS, JavaScript, and GSAP animations** to showcase projects, skills, and experience dynamically.  
 
-## **Features** ✨  
-✔️ Built with **React.js**  
-✔️ Smooth **animations** for an engaging UI  
-✔️ Showcases **projects, experience, and skills**  
-✔️ Fully **responsive design**  
-
-## **Getting Started** 🚀  
-
-### **1. Clone the Repository**  
-```bash
-git clone https://github.com/Shreshtasingh/dynamic_portfolio.git
-cd dynamic_portfolio
-```
-
-### **2. Install Dependencies**  
-```bash
-npm install
-```
-
-### **3. Run the Project**  
-```bash
-npm run dev
-```
-
-The app will start running locally at `http://localhost:5173/` (or the port specified in your terminal).  
-
-## **Project Structure** 📂  
-```
-dynamic_portfolio/
-│── src/            # Main source code  
-│   ├── components/ # Reusable components  
-│   ├── assets/     # Images, icons, etc.  
-│   ├── styles/     # CSS/styling files  
-│   ├── App.js      # Main React component  
-│── public/         # Static files  
-│── package.json    # Project dependencies  
-│── README.md       # Documentation  
-![23242058-f0a6-421b-b6ef-f77b9ac85a47](https://github.com/user-attachments/assets/21868652-73aa-44a8-8e2a-f89789ca4484)
-![079c1093-9574-4483-a807-a2b559630a62](https://github.com/user-attachments/assets/e40b8fda-897b-48f6-b4f5-ea8616d9aa8b)
-![0a3a7549-971b-463e-bd5d-e1f52bdc8c60](https://github.com/user-attachments/assets/9924b5b5-4b46-4420-a864-4dcded879d8c)
-![27f96a77-27ff-46a8-914c-db7c0fbd07cb](https://github.com/user-attachments/assets/424e904e-a793-409f-a72a-53d5397b1ffa)
-![a15f81f3-6481-4a10-8aeb-e8b9617bd355](https://github.com/user-attachments/assets/fd86da31-9fd7-4270-ac31-601570ff9cb2)
-
-
-https://github.com/user-attachments/assets/56d75305-fe66-4d6a-b05a-1c63eca88071
-
+## **Table of Contents**  
+- [Features](#features)  
+- [Technologies Used](#technologies-used)  
+- [Project Structure](#project-structure)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Screenshots](#screenshots)  
+- [Contributing](#contributing)  
+- [License](#license)  
 
 ---
 
-## **Technologies Used** 🛠  
-- **React.js** – Frontend framework  
-- **JavaScript (ES6+)** – Core programming language  
-- **Framer Motion** – Smooth animations  
-- **CSS3** – Styling and layout  
-- **Vite** – Fast build tool for React projects  
- 
+## **Features**  
+✅ **Dynamic animations** with **GSAP**  
+✅ **Smooth scrolling** using **Locomotive Scroll**  
+✅ **Responsive design** (Mobile-friendly)  
+✅ **Project showcase** section  
+✅ **Skills and experience** displayed interactively  
+✅ **Contact form** integration  
+✅ **SEO-friendly structure**  
 
-(*Make sure to add actual screenshots in the `public/` folder and update the filenames accordingly.*)  
+---
 
-## **Deployment** 🌍  
-This project can be deployed using:  
-- **Vercel**  
-- **Netlify**  
-- **GitHub Pages** (with some configuration)  
+## **Technologies Used**  
 
-To deploy on Vercel, run:  
-```bash
-npm run build
-vercel deploy
+| Technology  | Description  |
+|-------------|-------------|
+| **HTML5**  | Structuring the portfolio layout  |
+| **CSS3**  | Styling with animations and responsiveness  |
+| **JavaScript**  | Adding interactivity  |
+| **GSAP**  | Smooth animations  |
+| **Locomotive Scroll**  | Parallax scrolling effect  |
+
+---
+
+## **Project Structure**  
+
+```
+dynamic_portfolio/
+│── assets/                  # Images, icons, fonts
+│── css/                     # Stylesheets
+│── js/                      # JavaScript files
+│── index.html               # Main HTML file
+│── README.md                # Project documentation
 ```
 
-## **Future Improvements** 🚀  
-🔹 Add dark mode support  
-🔹 Enhance animations for a smoother experience  
-🔹 Implement a CMS for dynamic content updates  
+---
+
+## **Installation**  
+
+### **Prerequisites**  
+You need:  
+- A **browser** (Chrome, Firefox, Edge)  
+- A **code editor** (VS Code, Sublime Text)  
+- A **local server** (optional)  
+
+### **Clone the Repository**  
+```bash
+git clone https://github.com/Shreshtasingh/dynamic_portfolio.git
+```
+```bash
+cd dynamic_portfolio
+```
+
+---
+
+## **Usage**  
+
+### **Open in Browser (Recommended)**  
+Simply open the `index.html` file in a browser:  
+1. Navigate to the project folder  
+2. Double-click on `index.html`  
+
+### **Run on a Local Server** (Optional)  
+If you want to run it with a local server, use VS Code's **Live Server extension** or run:  
+```bash
+npx serve
+```
+Then open `http://localhost:3000` in your browser.  
+
+---
+
+## **Screenshots**  
+
+🚀 *You can add screenshots of your portfolio here* 🚀  
+
+---
+
+## **Contributing**  
+
+Contributions are welcome! Follow these steps:  
+1. **Fork** this repository.  
+2. **Create** a new branch:  
+   ```bash
+   git checkout -b feature-name
+   ```
+3. **Make your changes** and commit:  
+   ```bash
+   git commit -m "Added new feature"
+   ```
+4. **Push** to your branch:  
+   ```bash
+   git push origin feature-name
+   ```
+5. **Open a Pull Request** and wait for approval.  
+
+---
+
+## **License**  
+
+📜 This project is open-source and available under the **MIT License**.
+
