@@ -1,3 +1,12 @@
+![23242058-f0a6-421b-b6ef-f77b9ac85a47](https://github.com/user-attachments/assets/d4eb848f-55e9-4df1-90af-c8a8922e069b)
+![079c1093-9574-4483-a807-a2b559630a62](https://github.com/user-attachments/assets/266a778f-20aa-49db-b219-d694a4bc35d0)
+![0a3a7549-971b-463e-bd5d-e1f52bdc8c60](https://github.com/user-attachments/assets/a70ed9e9-505e-4372-8948-12c627820772)
+![27f96a77-27ff-46a8-914c-db7c0fbd07cb](https://github.com/user-attachments/assets/a2ce37cd-8115-40f9-a7d9-5e83859b5ee5)
+![a15f81f3-6481-4a10-8aeb-e8b9617bd355](https://github.com/user-attachments/assets/04194265-09a2-4dd3-85da-bb9f403ab7ae)
+
+
+https://github.com/user-attachments/assets/2e5a0e1a-6325-4aa5-a1d6-0f416e0a5bc5
+
 # dynamic_portfolio
 
 An **interactive and animated portfolio** built using **React and JavaScript** to showcase my projects, experience, and skills in a dynamic way.  
